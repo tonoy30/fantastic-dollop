@@ -1,0 +1,3 @@
+[workspace]
+members = ["sorting", "searching", "graph", "tree", "dp", "dsa"]
+resolver = "2"
